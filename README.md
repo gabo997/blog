@@ -1,4 +1,3 @@
-
 #Curso Profesional de Git y GitHub
 
 Puedes encontrar el curso completo en: 
